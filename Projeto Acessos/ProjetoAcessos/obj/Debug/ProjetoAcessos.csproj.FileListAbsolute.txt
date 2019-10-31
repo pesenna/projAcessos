@@ -1,0 +1,14 @@
+C:\Users\Paulinha\AppData\Local\Temporary Projects\ProjetoAcessos\bin\Debug\ProjetoAcessos.exe.config
+C:\Users\Paulinha\Desktop\Federal\4º Semestre\ED2 - Marco A\ProjetoAcessos\ProjetoAcessos\bin\Debug\ProjetoAcessos.exe.config
+C:\Users\Paulinha\Desktop\Federal\4º Semestre\ED2 - Marco A\ProjetoAcessos\ProjetoAcessos\bin\Debug\ProjetoAcessos.exe
+C:\Users\Paulinha\Desktop\Federal\4º Semestre\ED2 - Marco A\ProjetoAcessos\ProjetoAcessos\bin\Debug\ProjetoAcessos.pdb
+C:\Users\Paulinha\Desktop\Federal\4º Semestre\ED2 - Marco A\ProjetoAcessos\ProjetoAcessos\obj\Debug\ProjetoAcessos.exe
+C:\Users\Paulinha\Desktop\Federal\4º Semestre\ED2 - Marco A\ProjetoAcessos\ProjetoAcessos\obj\Debug\ProjetoAcessos.pdb
+C:\Users\Paulinha\Desktop\Federal\4º Semestre\ED2 - Marco A\ProjetoAcessos\ProjetoAcessos\obj\Debug\ProjetoAcessos.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\Projeto Acessos-20191031T230630Z-001\Projeto Acessos\ProjetoAcessos\bin\Debug\ProjetoAcessos.exe.config
+C:\Users\aluno\Desktop\Projeto Acessos-20191031T230630Z-001\Projeto Acessos\ProjetoAcessos\bin\Debug\ProjetoAcessos.exe
+C:\Users\aluno\Desktop\Projeto Acessos-20191031T230630Z-001\Projeto Acessos\ProjetoAcessos\bin\Debug\ProjetoAcessos.pdb
+C:\Users\aluno\Desktop\Projeto Acessos-20191031T230630Z-001\Projeto Acessos\ProjetoAcessos\obj\Debug\ProjetoAcessos.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\Projeto Acessos-20191031T230630Z-001\Projeto Acessos\ProjetoAcessos\obj\Debug\ProjetoAcessos.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Projeto Acessos-20191031T230630Z-001\Projeto Acessos\ProjetoAcessos\obj\Debug\ProjetoAcessos.exe
+C:\Users\aluno\Desktop\Projeto Acessos-20191031T230630Z-001\Projeto Acessos\ProjetoAcessos\obj\Debug\ProjetoAcessos.pdb
